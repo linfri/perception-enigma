@@ -6,4 +6,4 @@
 
 ## List of Challenges
 
-**LRF001** [PDF](https://github.com/linfri/perception-enigma/blob/main/LRF001.pdf) [HTML](https://github.com/linfri/perception-enigma/blob/main/LRF001.html)
+**LRF001** [[PDF](https://github.com/linfri/perception-enigma/blob/main/LRF001.pdf)] [[HTML](https://github.com/linfri/perception-enigma/blob/main/LRF001.html)]
