@@ -6,4 +6,4 @@
 
 ## List of Challenges
 
-LRF001
+[LRF001](https://github.com/linfri/perception-enigma/blob/main/LRF001.html)
