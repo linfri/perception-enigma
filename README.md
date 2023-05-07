@@ -8,4 +8,5 @@ The archive of the series can be found in the [Data Echoes database](https://git
 
 ## Latest Changes
 
-[2023-05-07] Severely under construction at the moment. The first challenges, including the reworked version of Oriondrive, will be posted around June.
+[2023-05-07] Severely under construction at the moment.
+[2023-05-07] The first challenges, including the reworked version of Oriondrive, will be posted around June.
