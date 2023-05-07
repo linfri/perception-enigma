@@ -1,4 +1,4 @@
-![Logo](perception-enigma.png)
+![Logo](logo.png)
 
 ## Introduction
 
