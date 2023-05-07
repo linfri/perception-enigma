@@ -2,8 +2,8 @@
 
 ## Introduction
 
-**perception:enigma** is an online platform that offers a unique opportunity to hone your research skills and logical abilities. Through a series of complex puzzles and challenges, **perception:enigma** will push you to your limits and test your ability to analyze information and identify patterns. With each challenge in the series, you will be presented with scenarios that require you to apply logic and mathematical reasoning to arrive at the correct solution. The platform was created by Linn Ruth Friberg (LRF) in 2023.
+**perception:enigma** is an online platform hosting a range of puzzles and challenges that were created by **Linn Ruth Friberg (LRF)**. This platform offers a challenging and engaging experience for those who enjoy solving puzzles and riddles. The puzzles are designed to push the limits of your brainpower and test your ability to think critically and logically. Each challenge presents a unique scenario that requires careful analysis, observation, and reasoning to arrive at the correct solution. As you delve deeper into the world of perception:enigma, you'll find that the puzzles become increasingly complex and intricate. From deciphering cryptic messages through research to unraveling complex sequences, every challenge requires you to employ a new set of skills and techniques. LRF strives to construct a coherent narrative within the puzzle series, resulting in an intricately detailed final product.
 
-## List of Challenges
+## Latest Changes
 
-**LRF001** [[PDF](https://github.com/linfri/perception-enigma/blob/main/LRF001.pdf)] [[HTML](https://github.com/linfri/perception-enigma/blob/main/LRF001.html)]
+[2023-05-07] Severely under construction at the moment. The first challenges, including the reworked version of Oriondrive, will be posted around June.
